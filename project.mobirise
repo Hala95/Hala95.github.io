@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "indx.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,14 +43,14 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.9.1"
   },
   "pages": {
-    "index.html": {
+    "html.html": {
       "settings": {
         "main": true,
-        "title": "الرئيسية",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -280,7 +280,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1-499x52110.png",
+                "image": "@PROJECT_PATH@/assets/images/-1-499x52111.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1-499x521-258x260.png",
                 "alt": "",
                 "title": "",
@@ -1015,7 +1015,7 @@
         }
       ]
     },
-    "page2.html": {
+    "indx.html": {
       "settings": {
         "title": "Home",
         "meta_descr": "",
@@ -1249,7 +1249,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1-499x52110.png",
+                "image": "@PROJECT_PATH@/assets/images/-1-499x52111.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1-499x521-258x260.png",
                 "alt": "",
                 "title": "",
