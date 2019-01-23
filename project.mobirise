@@ -43,7 +43,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "4.9.1"
   },
   "pages": {
@@ -280,7 +280,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1-499x52111.png",
+                "image": "@PROJECT_PATH@/assets/images/-1-499x52112.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1-499x521-258x260.png",
                 "alt": "",
                 "title": "",
@@ -1249,7 +1249,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1-499x52111.png",
+                "image": "@PROJECT_PATH@/assets/images/-1-499x52112.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1-499x521-258x260.png",
                 "alt": "",
                 "title": "",
