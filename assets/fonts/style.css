@@ -2,3 +2,7 @@
    font-family: 'TheSansArabic-Light';
    src: url('TheSansArabic-Light/font.otf');
 }
+@font-face {
+   font-family: 'Bahij_TheSansArabic-Bold';
+   src: url('Bahij_TheSansArabic-Bold/font.ttf');
+}
